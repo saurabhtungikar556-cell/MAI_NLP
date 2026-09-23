@@ -1,0 +1,10 @@
+# Data boundaries
+data/
+*.zip
+*.json
+*.xlsx
+
+# Compilation and environment
+__pycache__/
+*.pyc
+.env
