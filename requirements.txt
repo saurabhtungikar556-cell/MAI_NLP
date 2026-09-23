@@ -1,0 +1,8 @@
+PyMuPDF>=1.23.0
+opencv-python>=4.8.0
+torch>=2.0.0
+transformers>=4.30.0
+pytesseract>=0.3.10
+numpy>=1.24.0
+Pillow>=9.5.0
+requests>=2.31.0
